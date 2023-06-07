@@ -1,2 +1,3 @@
 # git-course
-For google git(-hub)  course
+
+Readme for google  git(-hub)  course. First github exercise.
